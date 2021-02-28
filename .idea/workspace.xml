@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31c91a48-a8a8-4f73-9859-551f50d8b8c5" name="Default Changelist" comment="added link">
-      <change afterPath="$PROJECT_DIR$/BierHieropdracht/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BierHieropdracht/style.css" afterDir="false" />
+    <list default="true" id="31c91a48-a8a8-4f73-9859-551f50d8b8c5" name="Default Changelist" comment="bierhier">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHieropdracht/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHieropdracht/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,17 +42,20 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\casme\PhpstormProjects\HTML" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\casme\PhpstormProjects\HTML" />
+      <recent name="C:\Users\casme\PhpstormProjects\HTML\BierHieropdracht" />
+    </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/index.html" useBuiltInWebServerPort="true">
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/h01/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/h01/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -69,7 +71,7 @@
       <workItem from="1607934835972" duration="2551000" />
       <workItem from="1608194785256" duration="141000" />
       <workItem from="1608207167247" duration="1816000" />
-      <workItem from="1608243156961" duration="340000" />
+      <workItem from="1608243156961" duration="830000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1607936492395</created>
@@ -85,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607937601968</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="bierhier">
+      <created>1608243546803</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608243546803</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="added link" />
-    <option name="LAST_COMMIT_MESSAGE" value="added link" />
+    <MESSAGE value="bierhier" />
+    <option name="LAST_COMMIT_MESSAGE" value="bierhier" />
   </component>
 </project>
